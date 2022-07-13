@@ -1,0 +1,1 @@
+$ ansible ansible-playbook ./playbooks/timezone.yml --user labserver --ask-pass --ask-become-pass -i ./inventory/hosts
